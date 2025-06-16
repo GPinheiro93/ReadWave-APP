@@ -1,0 +1,28 @@
+name: audiolibro_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.7.0
+  cupertino_icons: ^1.0.2
+  audioplayers: ^6.0.0
+  file_picker: ^8.0.5
+  path_provider: ^2.0.11
+  # La herramienta correcta y estable para leer EPUBs (VERSIÓN CORREGIDA)
+  epubx: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/
