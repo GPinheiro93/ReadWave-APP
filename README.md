@@ -33,7 +33,7 @@ Aquí puedes ver el flujo principal de la aplicación, incluyendo la nueva secci
 *(**Consejo:** ¡Es crucial que reemplaces esto con GIFs o capturas de pantalla de tu app! Muestra la biblioteca, el reproductor y, por supuesto, la tienda.)*
 
 <p align="center">
-  <img src="bilbioteca.png" alt="Biblioteca de la App" width="28%">
+  <img src="bilbioteca .png" alt="Biblioteca de la App" width="28%">
   <img src="reproductor.png" alt="Reproductor de Audio" width="28%">
   <img src="tienda.png" alt="Tienda de la App" width="28%">
   <img src="AUDIO LECTOR LOGIN.png" alt="Login de la App" width="28%">
