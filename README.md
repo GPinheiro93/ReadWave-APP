@@ -40,7 +40,7 @@ Aquí puedes ver el flujo principal de la aplicación, incluyendo la nueva secci
   <img src="perfil.png" alt="Perfil de la App" width="28%">
 </p>
 
----
+--- 
 
 ## 🛠️ Tecnologías Utilizadas
 
